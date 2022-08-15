@@ -25,8 +25,8 @@ This API supports a data response in JSON format.
 
 ```json
 {
-  "setup": "How do you make holy water?",
-  "punchline": "You boil the hell out of it"
+"punchline": "Ground-breaking",
+"setup": "I guess you could say that the invention of the shovel was really...."
 }
 ```
 

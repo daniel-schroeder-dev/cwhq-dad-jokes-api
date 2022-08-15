@@ -25,8 +25,8 @@ This API supports a data response in JSON format.
 
 ```json
 {
-"punchline": "Ground-breaking",
-"setup": "I guess you could say that the invention of the shovel was really...."
+    "punchline": "Ground-breaking",
+    "setup": "I guess you could say that the invention of the shovel was really...."
 }
 ```
 

@@ -1,0 +1,5 @@
+CREATE TABLE jokes (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    setup TEXT UNIQUE,
+    punchline TEXT UNIQUE
+);
